@@ -1,4 +1,4 @@
-### Colin Mondi - Kaggle Challenge – Ames, Iowa Housing Prices
+### Colin Mondi - Kaggle Competition – Ames, Iowa Housing Prices
 
 ### Problem Statement
 
