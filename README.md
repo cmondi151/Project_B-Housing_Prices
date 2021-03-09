@@ -1,4 +1,4 @@
-### Colin Mondi - Kaggle Competition – Ames, Iowa Housing Prices
+## Colin Mondi - Kaggle Competition – Ames, Iowa Housing Prices
 
 ### Problem Statement
 
@@ -50,9 +50,3 @@ Iowa State University, located in Ames Iowa, is interested in expanding their ca
 Recommendation: After cleansing, pre-processing, and prepping all 4 models, the ridge model is the best predictor of housing prices for Ames, Iowa.
 
 Although lasso and ridge had very similar R² & RSME values, the ridge model will generally perform better when the prediction is a function of multiple variables.
-
-
-
-
-
-
